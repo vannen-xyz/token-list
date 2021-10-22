@@ -224,6 +224,22 @@
     },
     {
       "chainId": 101,
+      "address": "3uCDJMULHmDqB9V1YBuuFcLCDXBALpKWpAJTKaeozPPU",
+      "symbol": "CHAIR",
+      "name": "Chair Game",
+      "decimals": 8,
+      "logoURI": "https://user-images.githubusercontent.com/92960966/138381893-3c4ea52c-3553-41c8-9b07-63768261f648.png"
+       "tags": [
+        "Exchange",
+        "Game",
+        "Dapp"
+      ],
+      "extensions": {
+        "website": ""
+        "twitter": "https://twitter.com/chairgame_xyz"
+    },
+    {
+      "chainId": 101,
       "address": "9CuowWiTMFBeC5ntjdAeMv3W72vzwveCC9ATTjnjXjNx",
       "symbol": "KRCH",
       "name": "KrechetovNFT",
