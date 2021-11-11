@@ -118,6 +118,21 @@
         
       }
     },
+     {
+      "chainId": 101,
+      "address": "Cj7kya7hhhCoSnwAP9MX5o4VLJvkhc59PDvJnj7KACyY",
+      "symbol": "GOD",
+      "name": "God Coin",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/92960966/141383617-ea21df74-e559-476e-96a6-81f72a76e1cc.png",
+      "tags": [
+        "meme",
+        "meme coin"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/godcoinSOL"
+      }
+    },
     {
       "chainId": 101,
       "address": "DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5",
